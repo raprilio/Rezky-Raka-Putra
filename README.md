@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://aralroca.com">
+  <a href="">
     <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
   </a>
 </p>
