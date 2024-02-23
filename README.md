@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+    <img width="100" src="https://t4.ftcdn.net/jpg/05/22/98/99/360_F_522989939_2XZDGHqJCCMegLZWJaEkKT0bc1Wrxhr8.jpg" alt="logo" />
   </a>
 </p>
 
