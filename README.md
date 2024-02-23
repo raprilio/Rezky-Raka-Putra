@@ -44,11 +44,11 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 
 #### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
  
-* [👋 Say Goodbye to Spread Operator: Use Default Composer](https://aralroca.com/blog/default-composer) 
-* [Creating Scalable and Reusable React Components](https://aralroca.com/blog/creating-scalable-and-reusable-react-components) 
-* [🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊](https://aralroca.com/blog/i18n-translations-nextjs-13-app-dir) 
-* [Teaful DevTools Released!](https://aralroca.com/blog/teaful-devtools) 
-* [Teaful: tiny, easy and powerful React state management](https://aralroca.com/blog/teaful)
+* [👋 Say Goodbye to Spread Operator: Use Default Composer]() 
+* [Creating Scalable and Reusable React Components]() 
+* [🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊]() 
+* [Teaful DevTools Released!]() 
+* [Teaful: tiny, easy and powerful React state management]()
 
 <br />
 
@@ -58,12 +58,12 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 * Science 
 * Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
 * Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
-* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
+* Parkour ([instagram](), [youtube]())
 * Nutrition
 * Nature
 
 <br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
+<a href="">
   <table align="right">
       <tr>
           <td>
