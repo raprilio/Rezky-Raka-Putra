@@ -38,7 +38,7 @@ I'am an IT Infrastructure & Support specialist. Building office/organizational s
   <br />
 </div>
 
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+I realize that the knowledge I have is still lacking and is still developing. therefore I focus on developing something and sharing something to develop further, and contribute to knowledge. either through a script or a system that I have created before.
 
 <br />
 
