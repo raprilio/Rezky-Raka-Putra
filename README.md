@@ -42,23 +42,23 @@ I realize that the knowledge I have is still lacking and is still developing. th
 
 <br />
 
-#### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
+#### 📖 &nbsp;&nbsp;[): Last 5 articles
  
-* [👋 Say Goodbye to Spread Operator: Use Default Composer]() 
-* [Creating Scalable and Reusable React Components]() 
-* [🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊]() 
-* [Teaful DevTools Released!]() 
-* [Teaful: tiny, easy and powerful React state management]()
+* []() 
+* []() 
+* []() 
+* []() 
+* []()
 
 <br />
 
 #### 🧡 &nbsp;&nbsp;My passions
 
-* Technology and software
-* Science 
-* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
-* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
-* Parkour ([instagram](), [youtube]())
+* Software & Logic
+* Science & Technoogy
+* Machine learning 
+* Books ([goodreads]())
+* My Media Social ([(), []())
 * Nutrition
 * Nature
 
