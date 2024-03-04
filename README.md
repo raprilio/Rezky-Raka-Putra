@@ -33,7 +33,7 @@ I'am an IT Infrastructure & Support specialist. Building office/organizational s
 <div align="center">
   <img width="" src="" />
   <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <small>My Profession Skils :smile: </small>
   <br />
   <br />
 </div>
