@@ -31,7 +31,7 @@
 I'am an IT Infrastructure & Support specialist. Building office/organizational systems and networks, as well as providing maintenance and support to users
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="" />
   <br />
   <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
