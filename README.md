@@ -41,6 +41,13 @@
       <img src="https://img.shields.io/badge/Filament-PHP-F59E0B?style=flat-square" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
     </td>
+        <td align="center" width="33%">
+      <h3>Web & Otomatisasi</h3>
+      <p>Membangun dasbor dan alat manajemen internal.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Filament-PHP-F59E0B?style=flat-square" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
   </tr>
 </table>
 
