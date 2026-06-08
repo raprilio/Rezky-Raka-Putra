@@ -1,281 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IT Infrastructure Portfolio & Profile</title>
-    <style>
-        :root {
-            --bg-color: #0f172a;
-            --card-bg: #1e293b;
-            --text-color: #e2e8f0;
-            --text-muted: #94a3b8;
-            --accent-blue: #38bdf8;
-            --accent-green: #34d399;
-            --accent-orange: #fb923c;
-            --accent-purple: #c084fc;
-            --border-color: #334155;
-        }
+<div align="center">
+  <h1>Hello, I'm Rezky Raka Putra 👋</h1>
+  <h3>IT Infrastructure Engineer | Hardware Enthusiast | Network Architect</h3>
+  <p>Based in Jakarta | 9+ Years of Experience in Managing Enterprise Networks, Systems & Hardware Operations</p>
 
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
+  <p>
+    <a href="https://linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-        body {
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            line-height: 1.6;
-            padding: 40px 20px;
-        }
+<hr />
 
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-        }
+<h2>📖 About Me</h2>
+<p>An IT Infrastructure professional focused on system reliability, network scalability, and robust hardware operations. Beyond configuring enterprise-grade networking and cloud environments, I actively build bare-metal hardware solutions—ranging from <strong>NAS Storage and Virtual Machines</strong> to custom <strong>3D printing projects</strong> and <strong>Broadcast Studio / OBS configurations</strong>. I also develop internal management tools using modern full-stack web technologies to streamline business workflows.</p>
 
-        header {
-            text-align: center;
-            padding-bottom: 40px;
-            border-bottom: 1px solid var(--border-color);
-            margin-bottom: 40px;
-        }
+<br />
 
-        header h1 {
-            font-size: 2.5rem;
-            color: #ffffff;
-            margin-bottom: 10px;
-        }
+<h2>📂 Featured Repositories</h2>
+<p>Explore my configurations and code by clicking on the project links below:</p>
+<ul>
+  <li>🌐 <strong><a href="https://github.com/YOUR-USERNAME/network-configs">Network & Firewall Configs</a>:</strong> Routing blueprints and security rules for MikroTik, FortiGate, and pfSense.</li>
+  <li>🗄️ <strong><a href="https://github.com/YOUR-USERNAME/nas-vm-homelab">NAS Storage & VM Environments</a>:</strong> Provisioning scripts and setup guides for Network Attached Storage and Virtual Machines.</li>
+  <li>🎥 <strong><a href="https://github.com/YOUR-USERNAME/broadcast-obs-studio">Broadcast & OBS Studio</a>:</strong> Advanced camera configurations, scene setups, and media streaming optimizations.</li>
+  <li>🖨️ <strong><a href="https://github.com/YOUR-USERNAME/3d-printing-projects">3D Printing Projects</a>:</strong> Firmware settings, calibrations, and small hardware engineering models.</li>
+  <li>☁️ <strong><a href="https://github.com/YOUR-USERNAME/cloud-sysadmin">Cloud SysAdmin Scripts</a>:</strong> Automation for AWS, M365, and Google Workspace user management.</li>
+  <li>💻 <strong><a href="https://github.com/YOUR-USERNAME/infrastructure-dashboards">Web Dashboards</a>:</strong> Source code for custom ERP and IT Asset management tools built with Laravel, Filament, and React.</li>
+</ul>
 
-        header h2 {
-            font-size: 1.3rem;
-            color: var(--accent-blue);
-            font-weight: 500;
-            margin-bottom: 15px;
-        }
+<br />
 
-        header p {
-            color: var(--text-muted);
-            font-size: 1rem;
-            max-width: 700px;
-            margin: 0 auto 20px auto;
-        }
+<h2>🛠️ Tech Stack & Ecosystem</h2>
 
-        .social-links a {
-            display: inline-block;
-            margin: 0 10px;
-            color: var(--text-color);
-            text-decoration: none;
-            background-color: var(--card-bg);
-            padding: 8px 16px;
-            border-radius: 6px;
-            font-size: 0.9rem;
-            border: 1px solid var(--border-color);
-            transition: all 0.3s ease;
-        }
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>Networking</h3>
+      <img src="https://img.shields.io/badge/MikroTik-RouterOS-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Fortinet-FortiGate-red?style=flat-square" />
+      <img src="https://img.shields.io/badge/pfSense-Firewall-black?style=flat-square" />
+    </td>
+    <td align="center" width="25%">
+      <h3>Hardware & VM</h3>
+      <img src="https://img.shields.io/badge/Virtual_Machines-VMware-0095D5?style=flat-square" />
+      <img src="https://img.shields.io/badge/NAS-Storage-0055A5?style=flat-square" />
+      <img src="https://img.shields.io/badge/OBS_Studio-Broadcast-302E31?style=flat-square" />
+    </td>
+    <td align="center" width="25%">
+      <h3>Cloud</h3>
+      <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft_365-Admin-D83B01?style=flat-square&logo=microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Workspace-Admin-4285F4?style=flat-square&logo=google&logoColor=white" />
+    </td>
+    <td align="center" width="25%">
+      <h3>Web Dev</h3>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Filament-PHP-F59E0B?style=flat-square" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+</table>
 
-        .social-links a:hover {
-            border-color: var(--accent-blue);
-            color: var(--accent-blue);
-        }
+<br />
 
-        section {
-            margin-bottom: 40px;
-        }
+<h2>🚀 Current Focus</h2>
+<ul>
+  <li>Preparing integrated technology service infrastructure for <strong>PT Golden Brillant Essential</strong>.</li>
+  <li>Deepening Cloud Support certifications (AWS & Workspace) to reach international clients remotely.</li>
+  <li>Conducting technical analysis research on market movements and the blockchain ecosystem.</li>
+</ul>
 
-        section h3 {
-            font-size: 1.5rem;
-            color: #ffffff;
-            margin-bottom: 20px;
-            border-left: 4px solid var(--accent-blue);
-            padding-left: 12px;
-        }
+<br />
 
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            margin-top: 15px;
-        }
-
-        .card {
-            background-color: var(--card-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            padding: 20px;
-            transition: transform 0.2s ease, border-color 0.2s ease;
-        }
-
-        .card:hover {
-            transform: translateY(-2px);
-            border-color: var(--accent-blue);
-        }
-
-        .card h4 {
-            margin-bottom: 10px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        
-        .card h4 a {
-            color: #ffffff;
-            text-decoration: none;
-            transition: color 0.2s ease;
-        }
-
-        .card h4 a:hover {
-            color: var(--accent-blue);
-            text-decoration: underline;
-        }
-
-        .card p {
-            color: var(--text-muted);
-            font-size: 0.9rem;
-        }
-
-        .badge-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin-top: 15px;
-        }
-
-        .badge {
-            background-color: rgba(56, 189, 248, 0.1);
-            color: var(--accent-blue);
-            padding: 4px 10px;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            font-weight: 600;
-        }
-
-        .badge.network { background-color: rgba(248, 113, 113, 0.1); color: #f87171; }
-        .badge.cloud { background-color: rgba(251, 146, 60, 0.1); color: #fb923c; }
-        .badge.dev { background-color: rgba(52, 211, 153, 0.1); color: #34d399; }
-        .badge.hardware { background-color: rgba(192, 132, 252, 0.1); color: var(--accent-purple); }
-
-        .tech-box {
-            background-color: var(--card-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            padding: 20px;
-            margin-bottom: 20px;
-        }
-
-        .tech-box h4 {
-            color: var(--text-muted);
-            font-size: 0.85rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 12px;
-        }
-
-        ul {
-            padding-left: 20px;
-            color: var(--text-muted);
-        }
-
-        li {
-            margin-bottom: 8px;
-        }
-
-        li strong {
-            color: var(--text-color);
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        <header>
-            <h1>Rezky Raka Putra</h1>
-            <h2>IT Infrastructure Engineer | Hardware Enthusiast | Full-Stack</h2>
-            <p>Specialist in enterprise network design, cloud administration, storage/VM engineering, broadcast setups, and internal operational tool development.</p>
-            <div class="social-links">
-                <a href="https://linkedin.com/in/YOUR-PROFILE" target="_blank">💼 LinkedIn</a>
-                <a href="https://github.com/YOUR-USERNAME" target="_blank">🐙 GitHub</a>
-                <a href="mailto:your.email@example.com">📧 Contact Email</a>
-            </div>
-        </header>
-
-        <section id="repositories">
-            <h3>📂 Featured Repositories & Configurations</h3>
-            <p style="color: var(--text-muted); margin-bottom: 20px; font-size: 0.95rem;">Click on the folder names to view the repository codes and configurations.</p>
-            <div class="grid">
-                <div class="card">
-                    <h4>📁 <a href="https://github.com/YOUR-USERNAME/network-configs" target="_blank">network-configs</a></h4>
-                    <p>Network configuration blueprints, firewall rules, and workload routing optimization scripts.</p>
-                    <div class="badge-list">
-                        <span class="badge network">MikroTik</span>
-                        <span class="badge network">FortiGate</span>
-                        <span class="badge network">pfSense</span>
-                    </div>
-                </div>
-                
-                <div class="card">
-                    <h4>📁 <a href="https://github.com/YOUR-USERNAME/nas-vm-homelab" target="_blank">nas-vm-homelab</a></h4>
-                    <p>Build configurations, provisioning scripts, and optimizations for NAS storage servers and Virtual Machines.</p>
-                    <div class="badge-list">
-                        <span class="badge hardware">NAS Storage</span>
-                        <span class="badge hardware">Virtual Machines</span>
-                        <span class="badge hardware">Proxmox</span>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <h4>📁 <a href="https://github.com/YOUR-USERNAME/broadcast-obs-studio" target="_blank">broadcast-obs-studio</a></h4>
-                    <p>Advanced configurations for broadcast studio cameras, OBS Studio scene collections, and streaming optimization.</p>
-                    <div class="badge-list">
-                        <span class="badge hardware">OBS Studio</span>
-                        <span class="badge hardware">Camera Configs</span>
-                        <span class="badge hardware">Streaming</span>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <h4>📁 <a href="https://github.com/YOUR-USERNAME/3d-printing-projects" target="_blank">3d-printing-projects</a></h4>
-                    <p>Firmware settings, calibration profiles, and code snippets for 3D printer builds and small hardware projects.</p>
-                    <div class="badge-list">
-                        <span class="badge hardware">3D Printing</span>
-                        <span class="badge hardware">Hardware Config</span>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <h4>📁 <a href="https://github.com/YOUR-USERNAME/cloud-sysadmin" target="_blank">cloud-sysadmin</a></h4>
-                    <p>Automation scripts for identity management, security policies, and resource deployment.</p>
-                    <div class="badge-list">
-                        <span class="badge cloud">AWS</span>
-                        <span class="badge cloud">M365</span>
-                        <span class="badge cloud">Workspace</span>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <h4>📁 <a href="https://github.com/YOUR-USERNAME/infrastructure-dashboards" target="_blank">infrastructure-dashboards</a></h4>
-                    <p>Source code for internal IT asset management apps, ERP systems, and monitoring panels.</p>
-                    <div class="badge-list">
-                        <span class="badge dev">Laravel</span>
-                        <span class="badge dev">Filament</span>
-                        <span class="badge dev">React.js</span>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="focus">
-            <h3>Current Initiatives</h3>
-            <ul>
-                <li><strong>Global Scalability:</strong> Developing a standardized infrastructure portfolio to meet the needs of international scale partners.</li>
-                <li><strong>Business Development:</strong> Building integrated technology operational foundations and a comprehensive procurement service catalog under PT Golden Brillant Essential.</li>
-                <li><strong>Creative & Media Tech:</strong> Fine-tuning studio broadcasting environments and pushing the limits of 3D printing hardware integrations.</li>
-                <li><strong>Market Analysis:</strong> Conducting technical analysis research on market movements and the blockchain ecosystem.</li>
-            </ul>
-        </section>
-    </div>
-
-</body>
-</html>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
+</div>
