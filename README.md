@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="10%">
       <h3>Infrastruktur & Jaringan</h3>
       <p>Manajemen VLAN, VPN, Firewall, dan Routing.</p>
       <img src="https://img.shields.io/badge/MikroTik-RouterOS-blue?style=flat-square" />
