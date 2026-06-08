@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Rezky Raka Putra 👋</h1>
+  <h1>Hello, I'm Rez 👋</h1>
   <h3>IT Infrastructure Engineer | Hardware Enthusiast | Network Architect</h3>
   <p>Based in Jakarta | 9+ Years of Experience in Managing Enterprise Networks, Systems & Hardware Operations</p>
 
